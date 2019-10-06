@@ -8,3 +8,5 @@ This project shows Cell Shading, Heigh Map, Sky Box, Reflection and Refraction i
 1. GLM
 1. SOIL
 1. STB_IMAGE
+
+READ "COMP 4490 PROJECT.docx" FILE FOR MORE UNDERSTANDING
